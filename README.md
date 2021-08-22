@@ -76,7 +76,7 @@ style="max-width:100%;">
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edgard-Maximo&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=020024&text_color=ffffff&bg_color=1,00008B,C71585,4169E1" /></a>                   <!-- do ultimo para o primeiro -->
 </div>
   
-  
+<!--   ![Snake animation](https://github.com/Edgard-MaximoEdgard-Maximo/blob/output/github-contribution-grid-snake.svg) -->
 
   
 
