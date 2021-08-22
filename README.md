@@ -76,6 +76,25 @@ style="max-width:100%;">
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edgard-Maximo&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=020024&text_color=ffffff&bg_color=1,00008B,C71585,4169E1" /></a>                   <!-- do ultimo para o primeiro -->
 </div>
   
+  
+  <hr>
+  
+  
+  <img src="https://user-images.githubusercontent.com/86319074/128095133-387287f4-0daa-4165-9732-60b54edf264f.gif" alt="Sonic" width="980" height="300" style="max-
+  width:100%;"></img>
+
+<hr>
+  
+ <p align="center">
+Number of visits to my profile since: 22/08/2021 🕵️ <br></p>
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Edgard-Maximo/count.svg" /></p>
+<p align="center">
+thanks and come back often! 😄
+</p>
+  
+  
+  
 <!--   ![Snake animation](https://github.com/Edgard-MaximoEdgard-Maximo/blob/output/github-contribution-grid-snake.svg) -->
 
   
